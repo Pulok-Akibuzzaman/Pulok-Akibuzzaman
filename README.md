@@ -229,13 +229,13 @@ graph TD;
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pulok-akibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulok-akibuzzaman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pulok-Akibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pulok-Akibuzzaman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pulok-akibuzzaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Pulok-Akibuzzaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br />
 <br />
