@@ -229,8 +229,8 @@ graph TD;
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pulok-Akibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pulok-Akibuzzaman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pulok-Akibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pulok-Akibuzzaman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
 
 <br />
 <br />
