@@ -229,8 +229,7 @@ graph TD;
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pulok-Akibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pulok-Akibuzzaman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
+
 
 <br />
 <br />
@@ -240,7 +239,7 @@ graph TD;
 <br />
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=pulok-akibuzzaman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
+
 
 </div>
 
