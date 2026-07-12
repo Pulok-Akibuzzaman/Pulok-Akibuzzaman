@@ -249,7 +249,6 @@ graph TD;
 
 <p align="center">
   <a href="https://www.coursera.org/user/0741b9b5295f8f84a963a95a73976455" target="_blank"><img src="https://img.shields.io/badge/Coursera-Learning%20Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
-  <a href="https://www.datacamp.com/portfolio/pulok519" target="_blank"><img src="https://img.shields.io/badge/DataCamp-Portfolio-03EF62?style=for-the-badge&logo=datacamp&logoColor=05192D" alt="DataCamp" /></a>
   <a href="https://dhmairg.net/" target="_blank"><img src="https://img.shields.io/badge/DHMAINetRG-Research%20Group-2563eb?style=for-the-badge&labelColor=020617" alt="DHMAINetRG" /></a>
 </p>
 
