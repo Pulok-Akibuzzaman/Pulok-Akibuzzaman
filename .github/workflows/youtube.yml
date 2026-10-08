@@ -1,0 +1,22 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          # IMPORTANT: Replace YOUR_CHANNEL_ID_HERE with your actual YouTube Channel ID (e.g. UCxxxxxxxxx)
+          # You can find it by going to YouTube Studio -> Settings -> Channel -> Advanced Settings -> Manage YouTube Account -> View Advanced Settings
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID_HERE"

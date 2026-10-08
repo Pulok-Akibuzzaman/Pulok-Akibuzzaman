@@ -16,6 +16,8 @@
   <a href="mailto:pulok519@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/pulok-akibuzzaman-73a21229a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Pulok-Akibuzzaman" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://scholar.google.com/citations?user=-lUOL5QAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0004-4119-2333" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0004--4119--2333-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.youtube.com/@phantombd09" target="_blank"><img src="https://img.shields.io/badge/YouTube-PhantomBD09-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
@@ -50,7 +52,7 @@ Status      : Open to collaboration and learning opportunities
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-3.81-2563eb?style=for-the-badge&labelColor=020617" alt="CGPA" />
   <br />
-  <img src="https://img.shields.io/badge/Credits-95%20Completed-2563eb?style=for-the-badge&labelColor=020617" alt="Credits" />
+  <img src="https://img.shields.io/badge/Credits-107%20Completed-2563eb?style=for-the-badge&labelColor=020617" alt="Credits" />
   <br />
   <img src="https://img.shields.io/badge/Scholarships-Merit%20%26%20Dean's-2563eb?style=for-the-badge&labelColor=020617" alt="Scholarships" />
   <br />
@@ -65,15 +67,21 @@ Status      : Open to collaboration and learning opportunities
 
 ## Current Mission
 
-<img align="right" width="340" src="https://github-readme-activity-graph.vercel.app/graph?username=Pulok-Akibuzzaman&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Flow" alt="Contribution graph" />
-
 - Researching Opportunistic Networks, Delay-Tolerant Networks, and Content-Centric Networking
 - Working with The ONE Simulator for network simulation and analysis
 - Improving system design, programming, and data visualization skills
 - Learning ethical hacking, network defense, and secure software practices
 - Creating technology and gaming content for curious learners
 
-<br clear="right" />
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
@@ -108,7 +116,36 @@ Tutored students from Play Group to Class 10. Prepared lessons, supported exam p
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Teaching Assistant
+
+**June 2026 - Sept 2026**
+
+Assisting in the delivery of CSE103 (Structured Programming / C Programming) and CSE246 (Algorithms) courses. Supporting students through lab sessions, consultations, and academic guidance. Helping evaluate assignments, quizzes, and programming tasks.
+
+**Academic Focus**
+
+`C Programming` `Algorithms` `Student Mentorship` `Evaluation`
+
+</td>
+</tr>
 </table>
+
+---
+
+## Publications
+
+- **STGen: A Lightweight Process-Based Testbed for Scalable IoT Protocol Evaluation with Physically Validated Synthetic Sensor and Anomaly Generation**  
+  *Journal of Sensor and Actuator Networks (JSAN), Vol. 15, No. 4, Article 63, 2026.*  
+  [DOI: 10.3390/jsan15040063](https://doi.org/10.3390/jsan15040063)
+
+- **OppNDA: A Modular and Scalable Automation Framework for Streamlining DTN Research With the ONE Simulator**  
+  *IEEE Access, vol. 14, pp. 151324–151343, Sept. 2026.*  
+  [DOI: 10.1109/ACCESS.2026.3737018](https://doi.org/10.1109/ACCESS.2026.3737018)
+
+> **Co-author of 6 IEEE conference papers (2026)**, including **1 first-author paper**, presented at ICCIT, QPAIN, and DCOSS-IoT, focusing on IoV, DTN, IoT, and network simulation.
 
 ---
 
@@ -214,34 +251,48 @@ graph TD;
     A[Computer Science] --> B[Programming];
     A --> C[Research];
     A --> D[Cybersecurity];
-    B --> E[C / C++ / Java / Python];
-    C --> F[OppNets / DTNs / CCN];
+    B --> E["C / C++ / Java / Python"];
+    C --> F["OppNets / DTNs / CCN"];
     C --> G[The ONE Simulator];
     D --> H[Network Defense];
     D --> I[Secure Systems];
     E --> J[Projects];
-    F --> K[Data Analysis & Visualization];
+    F --> K["Data Analysis & Visualization"];
 ```
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics & Recent Activity
 
 <div align="center">
-
-
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Pulok-Akibuzzaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br />
-<br />
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Pulok-Akibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Pulok-Akibuzzaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulok-Akibuzzaman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Recent GitHub Activity
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+</td>
+<td width="50%" valign="top">
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -250,6 +301,8 @@ graph TD;
 <p align="center">
   <a href="https://www.coursera.org/user/0741b9b5295f8f84a963a95a73976455" target="_blank"><img src="https://img.shields.io/badge/Coursera-Learning%20Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
   <a href="https://dhmairg.net/" target="_blank"><img src="https://img.shields.io/badge/DHMAINetRG-Research%20Group-2563eb?style=for-the-badge&labelColor=020617" alt="DHMAINetRG" /></a>
+  <a href="https://scholar.google.com/citations?user=-lUOL5QAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0004-4119-2333" target="_blank"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
 ---
