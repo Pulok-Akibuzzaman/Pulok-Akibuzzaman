@@ -67,25 +67,15 @@ Status      : Open to collaboration and learning opportunities
 
 ## Current Mission
 
+<img align="center" width="100%" src="https://ghchart.rshah.org/2563eb/Pulok-Akibuzzaman" alt="Contribution graph" />
+
 - Researching Opportunistic Networks, Delay-Tolerant Networks, and Content-Centric Networking
 - Working with The ONE Simulator for network simulation and analysis
 - Improving system design, programming, and data visualization skills
 - Learning ethical hacking, network defense, and secure software practices
 - Creating technology and gaming content for curious learners
 
-<br />
-
-<div align="center">
-  <i>(The Snake Animation will appear here once you push to GitHub and the Action runs!)</i>
-  <br/><br/>
-  <!-- Uncomment the picture block below once the Action generates the snake image!
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake.svg">
-  </picture>
-  -->
-</div>
+<br clear="right" />
 
 ---
 
@@ -266,43 +256,23 @@ graph TD;
 
 ---
 
-## GitHub Analytics & Recent Activity
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulok-Akibuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Pulok-Akibuzzaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulok-Akibuzzaman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+
+
 
 <br />
+<br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://streak-stats.demolab.com?user=Pulok-Akibuzzaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-### ⚡ Recent GitHub Activity
+<br />
+<br />
 
-<!-- START_SECTION:activity -->
-<br/>
-<p align="center"><i>(Your recent GitHub activity will automatically populate here once pushed to GitHub!)</i></p>
-<br/>
-<!-- END_SECTION:activity -->
 
-</td>
-<td width="50%" valign="top">
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<br/>
-<p align="center"><i>(Your latest YouTube videos will automatically populate here after you update your Channel ID and push!)</i></p>
-<br/>
-<!-- YOUTUBE:END -->
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
