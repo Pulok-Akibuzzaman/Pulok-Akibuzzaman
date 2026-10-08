@@ -76,11 +76,15 @@ Status      : Open to collaboration and learning opportunities
 <br />
 
 <div align="center">
+  <i>(The Snake Animation will appear here once you push to GitHub and the Action runs!)</i>
+  <br/><br/>
+  <!-- Uncomment the picture block below once the Action generates the snake image!
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pulok-Akibuzzaman/Pulok-Akibuzzaman/output/github-contribution-grid-snake.svg">
   </picture>
+  -->
 </div>
 
 ---
@@ -280,6 +284,9 @@ graph TD;
 ### ⚡ Recent GitHub Activity
 
 <!-- START_SECTION:activity -->
+<br/>
+<p align="center"><i>(Your recent GitHub activity will automatically populate here once pushed to GitHub!)</i></p>
+<br/>
 <!-- END_SECTION:activity -->
 
 </td>
@@ -288,6 +295,9 @@ graph TD;
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+<br/>
+<p align="center"><i>(Your latest YouTube videos will automatically populate here after you update your Channel ID and push!)</i></p>
+<br/>
 <!-- YOUTUBE:END -->
 
 </td>
